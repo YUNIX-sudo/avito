@@ -22,12 +22,12 @@ https://avito-pr-project-production.up.railway.app/
 
 1. **Клонируйте репозиторий:**
    ```sh
-   git clone https://github.com/YUNIX-sudo/avito-pr-project
+   git clone https://github.com/YUNIX-sudo/avito
    cd <project-folder>
    ```
 
 2. **Создайте файл `.env`:**
-   Скопируйте содержимое файла `.env.example` (если он есть) или создайте `.env` вручную со следующими переменными:
+   Скопируйте содержимое файла `.env.example` или создайте `.env` вручную со следующими переменными:
    ```env
    # PostgreSQL Settings
    DB_NAME=pr_reviewer_db
